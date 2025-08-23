@@ -1,0 +1,231 @@
+{
+    "home": {
+        "greeting": "Hello, I'm",
+        "name": "Anila Scaria",
+        "education": "Product Manager · Product Analyst · QA Engineer"
+    },
+    "about": {
+        "subtitle": "My Intro",
+        "title": "About me",
+        "boxes": [
+            {
+                "title": "9+ Years",
+                "subtitle": "Experience"
+            },
+            {
+                "title": "30+ Projects",
+                "subtitle": "Completed"
+            },
+            {
+                "title": "Masters",
+                "subtitle": "MSBA"
+            }
+        ],
+        "description": "Product-focused analyst and QA lead with deep payments domain experience. I translate customer needs and data into clear roadmaps, ship reliable solutions through rigorous testing, and measure impact with dashboards and experiments. Comfortable across discovery, delivery, and analytics."
+    },
+    "work": {
+        "subtitle": "My Journey",
+        "title": "Work Experience",
+        "companies": [
+            {
+                "id": "shell",
+                "entries": [
+                    {
+                        "date": "Jan 2023 – Aug 2024",
+                        "position": "Product Owner – Analytics & Payments",
+                        "points": [
+                            "Owned roadmap for mobile/contactless payments and POS platforms across 3,000+ sites; delivered $6M annualized value.",
+                            "Drove cross-functional delivery with engineering, QA, ops, and compliance; defined outcomes, KPIs, and acceptance criteria.",
+                            "Built anomaly detection and Power BI health dashboards to reduce false positives and speed go/no-go decisions."
+                        ]
+                    },
+                    {
+                        "date": "Jan 2022 – Dec 2022",
+                        "position": "Lead Product & Business Analyst",
+                        "points": [
+                            "Authored user stories and specs for POS, routing, and loyalty; aligned regional stakeholders on scope and priorities.",
+                            "Led UAT triage and coordinated multi-market rollouts to minimize incidents and downtime.",
+                            "Drove change management and documentation for faster adoption and support readiness."
+                        ]
+                    },
+                    {
+                        "date": "Jun 2020 – Dec 2021",
+                        "position": "Data Analyst – QA & Release Insights",
+                        "points": [
+                            "Created executive-ready QA/defect dashboards (Power BI/DAX) covering coverage, leakages, and release risk.",
+                            "Turned release data into actionable insights to inform cut/fix decisions.",
+                            "Performed RCA to remove bottlenecks and shorten test cycles."
+                        ]
+                    },
+                    {
+                        "date": "Sep 2018 – May 2020",
+                        "position": "Product Analyst – QA & Retail Payments",
+                        "points": [
+                            "Aligned QA, product, and engineering on end-to-end payment scenarios and acceptance criteria.",
+                            "Developed backend validation tools for card transactions to ensure accuracy and compliance.",
+                            "Led integration testing across POS/terminals to improve authorization reliability."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "capgemini",
+                "entries": [
+                    {
+                        "date": "Apr 2016 – Aug 2018",
+                        "position": "QA Automation & Data Insights Engineer",
+                        "points": [
+                            "Defined and executed QA strategy for retail banking systems (ALM, SQL).",
+                            "Streamlined regression cycles and improved defect turnaround via RCA.",
+                            "Bridged QA and business during UAT; validated workflows and automation feasibility."
+                        ]
+                    },
+                    {
+                        "date": "Dec 2014 – Mar 2016",
+                        "position": "Software Engineer – Functional Testing",
+                        "points": [
+                            "Tested onboarding and payment flows across legacy and web stacks.",
+                            "Built dashboards to summarize authorization/clearing outcomes and trends.",
+                            "Coordinated test planning and data analysis for critical releases."
+                        ]
+                    },
+                    {
+                        "date": "Aug 2014 – Nov 2014",
+                        "position": "Software Engineer Trainee",
+                        "points": [
+                            "Completed intensive training in test automation, SQL, and STLC.",
+                            "Executed simulated test runs and data validations to build foundations.",
+                            "Practiced requirement-based test design and defect lifecycle management."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "subtitle": "My abilities",
+        "title": "My Skills",
+        "cards": [
+            {
+                "title": "Management Skills",
+                "groups": [
+                    [
+                        {
+                            "name": "Prioritization",
+                            "level": "(RICE/MoSCoW)"
+                        },
+                        {
+                            "name": "Roadmapping",
+                            "level": "(Strategy/OKRs)"
+                        },
+                        {
+                            "name": "Backlog",
+                            "level": "(Grooming)"
+                        },
+                        {
+                            "name": "Requirements",
+                            "level": "(PRD/BRD)"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Agile",
+                            "level": "(Scrum/Kanban)"
+                        },
+                        {
+                            "name": "Stakeholders",
+                            "level": "(Comm/Alignment)"
+                        },
+                        {
+                            "name": "Metrics",
+                            "level": "(OKRs/KPIs)"
+                        },
+                        {
+                            "name": "Experiments",
+                            "level": "(A/B)"
+                        }
+                    ]
+                ]
+            },
+            {
+                "title": "Technical Skills",
+                "groups": [
+                    [
+                        {
+                            "name": "SQL",
+                            "level": "(Joins/Windows)"
+                        },
+                        {
+                            "name": "Python",
+                            "level": "(Pandas/NumPy)"
+                        },
+                        {
+                            "name": "Dashboards",
+                            "level": "(Power BI/Tableau/DAX)"
+                        },
+                        {
+                            "name": "Statistics",
+                            "level": "(t-test/Regression)"
+                        }
+                    ],
+                    [
+                        {
+                            "name": "Automation",
+                            "level": "(Selenium/WebDriver)"
+                        },
+                        {
+                            "name": "API Testing",
+                            "level": "(Postman/REST)"
+                        },
+                        {
+                            "name": "CI/CD",
+                            "level": "(Azure DevOps)"
+                        },
+                        {
+                            "name": "Payments",
+                            "level": "(EMV/PCI/ISO8583)"
+                        }
+                    ]
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "subtitle": "My Portfolio",
+        "title": "Projects",
+        "cards": [
+            {
+                "title": "Drone Detection (XAI)",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Quadcopter_Drone_in_flight.jpg",
+                "url": "#",
+                "categoryClass": "ml",
+                "desc": "CNN-based drone detection with XAI; CVAT-labeled dataset; improved explainability."
+            },
+            {
+                "title": "Dividend Strategy Optimization",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stock_market_charts_illustration.jpg",
+                "url": "#",
+                "categoryClass": "ds",
+                "desc": "Time-series ML to time dividend trades; Polygon.io data pipeline; modular framework."
+            },
+            {
+                "title": "Payment Health KPIs Dashboard",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dashboard_example.png",
+                "url": "#",
+                "categoryClass": "ds",
+                "desc": "Executive KPIs for auth/settlement & POS health; sped up go/no-go decisions."
+            },
+            {
+                "title": "Contactless Payments Rollout",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tap_pay_point.jpg",
+                "url": "#",
+                "categoryClass": "pm",
+                "desc": "Multi-market rollout (DACH); roadmap, stakeholder alignment, go-lives; +$6M annual value."
+            }
+        ]
+    },
+    "contact": {
+        "subtitle": "Get in touch",
+        "title": "Contact Me"
+    }
+}
