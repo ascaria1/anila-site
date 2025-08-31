@@ -2,7 +2,7 @@
     "home": {
         "greeting": "Hello, I'm",
         "name": "Anila Scaria",
-        "education": "Product Owner/Manager · Product Analyst · QA Engineer"
+        "education": "Product Owner · Product Analyst · QA Engineer"
     },
     "about": {
         "subtitle": "My Intro",
@@ -18,7 +18,7 @@
             },
             {
                 "title": "Masters",
-                "subtitle": "MS in Business Analytics"
+                "subtitle": "Business Analytics"
             }
         ],
         "description": "Product-focused analyst and QA lead with deep payments domain experience. I translate customer needs and data into clear roadmaps, ship reliable solutions through rigorous testing, and measure impact with dashboards and experiments. Comfortable across discovery, delivery, and analytics."
