@@ -2,7 +2,7 @@
     "home": {
         "greeting": "Hello, I'm",
         "name": "Anila Scaria",
-        "education": "Product Owner/Manager · Product Analyst · QA Engineer"
+        "education": "Product Owner/Manager · QA Manager"
     },
     "about": {
         "subtitle": "My Intro",
@@ -21,7 +21,7 @@
                 "subtitle": "Business Analytics"
             }
         ],
-        "description": "Product-focused analyst and QA lead with deep payments domain experience. I translate customer needs and data into clear roadmaps, ship reliable solutions through rigorous testing, and measure impact with dashboards and experiments. Comfortable across discovery, delivery, and analytics."
+        "description": "Product-focused professional with strong payments domain experience. I translate customer needs and data into clear product roadmaps, drive reliable delivery through structured testing, and measure impact using dashboards and data insights. Experienced across product discovery, delivery, and analytics."
     },
     "work": {
         "subtitle": "My Journey",
@@ -31,71 +31,55 @@
                 "id": "shell",
                 "entries": [
                     {
-                        "date": "Jan 2023 – Aug 2024",
-                        "position": "Product Owner",
+                        "date": "Jan 2021 – Aug 2024",
+                        "position": "Product Owner – POS Payment Routing & Authorization Systems",
                         "points": [
-                            "Owned roadmap for mobile/contactless payments and POS platforms across 3,000+ sites; delivered $6M annualized value.",
-                            "Drove cross-functional delivery with engineering, QA, ops, and compliance; defined outcomes, KPIs, and acceptance criteria.",
-                            "Built anomaly detection and Power BI health dashboards to reduce false positives and speed go/no-go decisions."
+                            "Owned product roadmap and backlog for POS payment processing and gateway integrations across authorization, routing, clearing, and settlement.",
+                            "Defined user stories and acceptance criteria for transaction flows including ISO 8583 field validation, response code handling, and acquirer message mapping.",
+                            "Led cross-functional delivery with engineering, QA, and acquiring partners to improve transaction reliability and reduce post-production defects."
                         ]
                     },
                     {
-                        "date": "Jan 2022 – Dec 2022",
-                        "position": "Lead Product & Data Analyst",
+                        "date": "Sep 2018 – Dec 2020",
+                        "position": "Associate Product Owner – Site Systems Payments",
                         "points": [
-                            "Authored user stories and specs for POS, routing, and loyalty; aligned regional stakeholders on scope and priorities.",
-                            "Led UAT triage and coordinated multi-market rollouts to minimize incidents and downtime.",
-                            "Drove change management and documentation for faster adoption and support readiness."
+                            "Supported product ownership of POS payment platforms by analyzing end-to-end transaction lifecycle and translating requirements into functional specifications.",
+                            "Investigated transaction declines and routing issues using field-level analysis to improve authorization rates and system stability.",
+                            "Led UAT coordination, triage, and validation of payment integrations across terminals and acquiring partners."
                         ]
-                    },
-                    {
-                        "date": "Jun 2020 – Dec 2021",
-                        "position": "Senior Data Analyst",
-                        "points": [
-                            "Created executive-ready QA/defect dashboards (Power BI/DAX) covering coverage, leakages, and release risk.",
-                            "Turned release data into actionable insights to inform cut/fix decisions.",
-                            "Performed RCA to remove bottlenecks and shorten test cycles."
-                        ]
-                    },
-                    {
-                        "date": "Sep 2018 – May 2020",
-                        "position": "Senior Product Analyst",
-                        "points": [
-                            "Aligned QA, product, and engineering on end-to-end payment scenarios and acceptance criteria.",
-                            "Developed backend validation tools for card transactions to ensure accuracy and compliance.",
-                            "Led integration testing across POS/terminals to improve authorization reliability."
-                        ]
+    
                     }
                 ]
+                
             },
             {
                 "id": "capgemini",
                 "entries": [
                     {
                         "date": "Apr 2016 – Aug 2018",
-                        "position": "Product Analyst",
+                        "position": "Product Analyst – Enterprise Banking & Card Payments",
                         "points": [
-                            "Defined and executed QA strategy for retail banking systems (ALM, SQL).",
-                            "Streamlined regression cycles and improved defect turnaround via RCA.",
-                            "Bridged QA and business during UAT; validated workflows and automation feasibility."
+                            "Analyzed and validated end-to-end card transaction lifecycles across Base24 authorization systems using ISO 8583 message structures.",
+                            "Performed data element mapping between front-end banking applications and backend authorization systems across authorization, clearing, and settlement.",
+                            "Investigated declined transactions and reconciliation issues, identifying root causes in routing and host response logic."
                         ]
                     },
                     {
                         "date": "Dec 2014 – Mar 2016",
-                        "position": "Data Analyst",
+                        "position": "Software Engineer – Payments Processing",
                         "points": [
-                            "Tested onboarding and payment flows across legacy and web stacks.",
-                            "Built dashboards to summarize authorization/clearing outcomes and trends.",
-                            "Coordinated test planning and data analysis for critical releases."
+                            "Supported validation of high-volume banking and card payment systems across authorization and transaction processing platforms.",
+                            "Conducted backend transaction validation using CICS and Base24 systems to ensure payment processing accuracy.",
+                            "Collaborated with engineering and business teams to clarify requirements and improve release quality through structured testing."
                         ]
                     },
                     {
                         "date": "Aug 2014 – Nov 2014",
-                        "position": "Software Engineer Trainee",
+                        "position": "Software Engineer Trainee – Banking Systems Testing & Data Validation",
                         "points": [
-                            "Completed intensive training in test automation, SQL, and STLC.",
-                            "Executed simulated test runs and data validations to build foundations.",
-                            "Practiced requirement-based test design and defect lifecycle management."
+                            "Completed training in software testing, SQL, and enterprise banking system validation for large-scale financial platforms.",
+                            "Performed requirement-based testing and transaction data validation for banking and payment processing systems.",
+                            "Supported QA teams in functional and regression testing, gaining exposure to transaction processing workflows."
                         ]
                     }
                 ]
@@ -217,10 +201,10 @@
             },
             {
                 "title": "Payments Terminal upgrade Rollout",
-                "img": "https://worldline.com/content/dam/worldline/global/images/content-images/img-full-move-5000-packshot-on-a-cafe-table.jpg/jcr:content/renditions/Desktop.jpeg",
+                "img": "data:image/jpeg;base64,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",
                 "url": "#",
                 "categoryClass": "pm",
-                "desc": "Multi-market rollout (DACH); roadmap, stakeholder alignment, go-lives; +$6M annual value."
+                "desc": "Multi-market rollout across 3000+ merchant sites; roadmap, stakeholder alignment, go-lives; +$6M annual value."
             }
         ]
     },
