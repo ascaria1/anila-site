@@ -193,6 +193,13 @@
                 "desc": "Time-series ML to time dividend trades; Polygon.io data pipeline; modular framework."
             },
             {
+                "title": "Site Systems Replacement (Payments Handling)",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dashboard_example.png",
+                "url": "#",
+                "categoryClass": "ds",
+                "desc": "Led payments workstream for large-scale site systems replacement across 3,000+ retail locations, validating POS, payment routing, authorization, and settlement flows; drove UAT, stakeholder alignment, and rollout readiness to reduce payment disruption risk during upgrades"
+            },
+            {
                 "title": "Payment Health KPIs Dashboard",
                 "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Dashboard_example.png",
                 "url": "#",
